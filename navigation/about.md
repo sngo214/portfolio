@@ -20,7 +20,7 @@ gallery_images:
 
 <!-- markdownlint-disable MD033 -->
 
-## As a conversation Starter
+## As a conversation starter:
 
 Here are some places I have lived.
 
